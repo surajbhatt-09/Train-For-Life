@@ -17,37 +17,15 @@ const Footer= ()=> {
           <p>Discover what’s new in the health, fitness and wellbeing, 
             including free workouts and nutritional hints and tips to help fast track your success.</p> 
      <h4> Find Us...</h4>
-      </div>
-      <div>
-          
-      <ul className="ul">
-  <li className="li">
-    <a href="https://www.facebook.com/" className="a">
-      <i className="fab fa-facebook" aria-hidden="true"></i>
-      <span> - Facebook</span>
-    </a>
-  </li>
-  <li className="li">
-    <a className="a" href="https://www.twitter.com/">
-      <i className="fab fa-twitter" aria-hidden="true"></i>
-      <span> - Twitter</span>
-    </a>
-  </li>
-  <li className="li">
-    <a className="a" href="https://aboutme.google.com">
-      <i className="fab fa-google-plus" aria-hidden="true"></i>
-      <span> - Google</span>
-    </a>
-  </li>
-  <li className="li">
-    <a className="a" href="https://www.instagram.com">
-      <i className="fab fa-instagram" aria-hidden="true"></i>
-      <span> - Instagram</span>
-    </a>
-  </li>
-      </ul>
+       <ul className="ul">
+  <li className="li"><a className="a" href="#"><i className="fab fa-facebook" aria-hidden="true"></i></a></li>
+  <li  className="li"><a className="a" href="#"><i className="fab fa-twitter" aria-hidden="true"></i></a></li>
+  <li  className="li"><a className="a" href="#"><i className="fab fa-google-plus" aria-hidden="true"></i></a></li>
+  <li  className="li"><a className="a"  href="#"><i className="fab fa-linkedin" aria-hidden="true"></i></a></li>
+  <li  className="li"><a className="a" href="#"><i className="fab fa-instagram" aria-hidden="true"></i></a></li>
+</ul>
+</div>
       
-      </div>
       <div className="col l6 s6 ">
           <h5>Keep In Touch</h5>
       <form className="pure-form pure-form-aligned">
@@ -86,10 +64,14 @@ const Footer= ()=> {
       </div>
         </footer>
         </div>
+        
       <div className="copyright-footer grey darken-4 center" id="freak">
-
-       Fitness Freak &copy;2019 
+      <div className="row">
+       <div className="col l4 s4" id="freakname">Fitness Freak &copy;2019 </div>
+       <div className="clo l4 s4" id="developer">Developer Link--> <a href="https://github.com/surajbhatt-09/loveGym" id="name"> surajbhatt-09.github.io</a></div>
       </div>
+      </div>
+
       </div>
        
     )

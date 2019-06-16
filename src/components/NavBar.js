@@ -1,11 +1,13 @@
 import React from 'react'
 import {Link,NavLink} from 'react-router-dom';
+import '../CssFiles/navbar.css'
 
 const NavBar= ()=> {
     return (
         <div>
-        <nav className="nav-wrapper cyan darken-3">
-     <div className="container"><a className="brand-logo" href="">Fitness Freak</a></div>
+        <nav className="nav-wrapper grey darken-3">
+     <div className="container"><a className="brand-logo" href="">Train For Life</a></div>
+     <div class="heartrate"></div>
 <ul className="right hide-on-med-and-down">
   <li>  <Link to='/'>Home</Link></li>
     <li><Link to='/about'>About</Link></li>

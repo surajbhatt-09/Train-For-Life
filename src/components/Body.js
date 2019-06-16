@@ -8,7 +8,17 @@ import work from '../img/work.jpg'
 import {Link,NavLink} from 'react-router-dom'
 const Header=()=>{
 return(
-
+<div>
+<div class="hero">
+	<h1>The cheerful mind perseveres, and the strong mind hews <br/>its way through a thousand difficulties.<span><div class="loader">
+  <div class="face">
+    <div class="circle"></div>
+  </div>
+  <div class="face">
+    <div class="circle"></div>
+  </div>
+</div></span></h1>
+</div>
 <div className="header">
     <div className="c">
     <div  className="box">
@@ -45,7 +55,7 @@ return(
 
 </div>
 
-
+</div>
 );
 
 }
