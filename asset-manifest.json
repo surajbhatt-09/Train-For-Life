@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/loveGym/static/css/main.d225b8f8.chunk.css",
+    "main.js": "/loveGym/static/js/main.209a9208.chunk.js",
+    "main.js.map": "/loveGym/static/js/main.209a9208.chunk.js.map",
+    "runtime~main.js": "/loveGym/static/js/runtime~main.e72ffed9.js",
+    "runtime~main.js.map": "/loveGym/static/js/runtime~main.e72ffed9.js.map",
+    "static/js/2.6f12d623.chunk.js": "/loveGym/static/js/2.6f12d623.chunk.js",
+    "static/js/2.6f12d623.chunk.js.map": "/loveGym/static/js/2.6f12d623.chunk.js.map",
+    "index.html": "/loveGym/index.html",
+    "precache-manifest.e34ebfed399645b321ab9b0fcffdf134.js": "/loveGym/precache-manifest.e34ebfed399645b321ab9b0fcffdf134.js",
+    "service-worker.js": "/loveGym/service-worker.js",
+    "static/css/main.d225b8f8.chunk.css.map": "/loveGym/static/css/main.d225b8f8.chunk.css.map",
+    "static/media/diet.jpg": "/loveGym/static/media/diet.d4f0d9d7.jpg",
+    "static/media/life.jpg": "/loveGym/static/media/life.1a5e66cb.jpg",
+    "static/media/medi.jpg": "/loveGym/static/media/medi.6c813eee.jpg",
+    "static/media/work.jpg": "/loveGym/static/media/work.9e2ff01b.jpg"
+  }
+}
