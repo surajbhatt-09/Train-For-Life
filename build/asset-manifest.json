@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/loveforgym/static/css/main.d225b8f8.chunk.css",
+    "main.js": "/loveforgym/static/js/main.48ccc0b9.chunk.js",
+    "main.js.map": "/loveforgym/static/js/main.48ccc0b9.chunk.js.map",
+    "runtime~main.js": "/loveforgym/static/js/runtime~main.474f59bf.js",
+    "runtime~main.js.map": "/loveforgym/static/js/runtime~main.474f59bf.js.map",
+    "static/js/2.6f12d623.chunk.js": "/loveforgym/static/js/2.6f12d623.chunk.js",
+    "static/js/2.6f12d623.chunk.js.map": "/loveforgym/static/js/2.6f12d623.chunk.js.map",
+    "index.html": "/loveforgym/index.html",
+    "precache-manifest.7bfb952793aa60675cb017063ca97ddd.js": "/loveforgym/precache-manifest.7bfb952793aa60675cb017063ca97ddd.js",
+    "service-worker.js": "/loveforgym/service-worker.js",
+    "static/css/main.d225b8f8.chunk.css.map": "/loveforgym/static/css/main.d225b8f8.chunk.css.map",
+    "static/media/diet.jpg": "/loveforgym/static/media/diet.d4f0d9d7.jpg",
+    "static/media/life.jpg": "/loveforgym/static/media/life.1a5e66cb.jpg",
+    "static/media/medi.jpg": "/loveforgym/static/media/medi.6c813eee.jpg",
+    "static/media/work.jpg": "/loveforgym/static/media/work.9e2ff01b.jpg"
+  }
+}
