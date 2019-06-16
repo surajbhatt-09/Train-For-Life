@@ -1,5 +1,5 @@
 import React ,{Component}from 'react';
-import {BrowserRouter,Route} from 'react-router-dom';
+import {HashRouter,Route} from 'react-router-dom';
 import Home from './components/Home';
 import Contact from './components/Contact';
 import About from './components/About';
@@ -11,7 +11,7 @@ import Medi from './InternalComp/meditation'
  class App extends Component {
   render(){
   return (
-    <BrowserRouter>
+    <HashRouter>
     <div className="App">
     <Route exact path='/' component={Home}/>
     <Route path='/contact' component={Contact}/>
@@ -21,7 +21,7 @@ import Medi from './InternalComp/meditation'
     <Route path='/work' component={Work}/>
     <Route path='/medi' component={Medi}/>
     </div>
-    </BrowserRouter>
+    </HashRouter>
   )};
 }
 

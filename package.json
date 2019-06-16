@@ -2,7 +2,7 @@
   "name": "loveforgym",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://surajbhatt-09.github.io/loveforgym/",
+  "homepage": "https://surajbhatt-09.github.io/loveGym/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",

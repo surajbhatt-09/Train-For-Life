@@ -1,9 +1,10 @@
 import React from 'react'
+import NavBar from '../components/NavBar'
 
 const Diet=()=> {
     return (
         <div>
-           Diet 
+        <NavBar/>
         </div>
     )
 }
