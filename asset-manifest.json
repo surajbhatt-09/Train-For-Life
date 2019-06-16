@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/loveGym/static/css/main.90645d99.chunk.css",
-    "main.js": "/loveGym/static/js/main.87ee4dee.chunk.js",
-    "main.js.map": "/loveGym/static/js/main.87ee4dee.chunk.js.map",
+    "main.css": "/loveGym/static/css/main.7567a560.chunk.css",
+    "main.js": "/loveGym/static/js/main.e560ef4f.chunk.js",
+    "main.js.map": "/loveGym/static/js/main.e560ef4f.chunk.js.map",
     "runtime~main.js": "/loveGym/static/js/runtime~main.e72ffed9.js",
     "runtime~main.js.map": "/loveGym/static/js/runtime~main.e72ffed9.js.map",
     "static/js/2.2f5e03a4.chunk.js": "/loveGym/static/js/2.2f5e03a4.chunk.js",
     "static/js/2.2f5e03a4.chunk.js.map": "/loveGym/static/js/2.2f5e03a4.chunk.js.map",
     "index.html": "/loveGym/index.html",
-    "precache-manifest.16e2d9bef56f1f730c93d040e6798669.js": "/loveGym/precache-manifest.16e2d9bef56f1f730c93d040e6798669.js",
+    "precache-manifest.9893a36b72c9b913fd346f5cbf21d763.js": "/loveGym/precache-manifest.9893a36b72c9b913fd346f5cbf21d763.js",
     "service-worker.js": "/loveGym/service-worker.js",
-    "static/css/main.90645d99.chunk.css.map": "/loveGym/static/css/main.90645d99.chunk.css.map",
-    "static/media/diet.jpg": "/loveGym/static/media/diet.d4f0d9d7.jpg",
-    "static/media/life.jpg": "/loveGym/static/media/life.1a5e66cb.jpg",
+    "static/css/main.7567a560.chunk.css.map": "/loveGym/static/css/main.7567a560.chunk.css.map",
+    "static/media/diet.jpg": "/loveGym/static/media/diet.a28adc91.jpg",
+    "static/media/life.jpg": "/loveGym/static/media/life.7b842732.jpg",
     "static/media/medi.jpg": "/loveGym/static/media/medi.6c813eee.jpg",
-    "static/media/work.jpg": "/loveGym/static/media/work.9e2ff01b.jpg"
+    "static/media/work.jpg": "/loveGym/static/media/work.345f0bb7.jpg"
   }
 }
