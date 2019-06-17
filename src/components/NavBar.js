@@ -5,7 +5,7 @@ import '../CssFiles/navbar.css'
 const NavBar= ()=> {
     return (
         <div>
-        <nav className="nav-wrapper grey darken-3">
+        <nav className="nav-wrapper grey darken-3 ">
      <div className="container"><a className="brand-logo" href="">Train For Life</a></div>
   
      <div class="heartrate"></div>
@@ -27,7 +27,8 @@ const NavBar= ()=> {
           <li><a href="#contact">Contact</a></li>
       </ul>
       
-    </nav>  
+    </nav> 
+    
         </div>
     )
 }

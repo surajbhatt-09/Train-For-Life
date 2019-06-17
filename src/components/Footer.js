@@ -17,6 +17,7 @@ const Footer= ()=> {
           <p>Discover what’s new in the health, fitness and wellbeing, 
             including free workouts and nutritional hints and tips to help fast track your success.</p> 
      <h4> Find Us...</h4>
+       <div className="hide-on-med-and-down">
        <ul className="ul">
   <li className="li"><a className="a" href="#"><i className="fab fa-facebook" aria-hidden="true"></i></a></li>
   <li  className="li"><a className="a" href="#"><i className="fab fa-twitter" aria-hidden="true"></i></a></li>
@@ -24,6 +25,7 @@ const Footer= ()=> {
   <li  className="li"><a className="a"  href="#"><i className="fab fa-linkedin" aria-hidden="true"></i></a></li>
   <li  className="li"><a className="a" href="#"><i className="fab fa-instagram" aria-hidden="true"></i></a></li>
 </ul>
+</div>
 </div>
       
       <div className="col l6 s6 ">
@@ -65,13 +67,22 @@ const Footer= ()=> {
         </footer>
         </div>
         
-      <div className="copyright-footer grey darken-4 center" id="freak">
+      <div className="copyright-footer grey darken-4 center hide-on-med-and-down " id="freak">
       <div className="row">
-       <div className="col l4 s4" id="freakname">Fitness Freak &copy;2019 </div>
-       <div className="clo l4 s4" id="developer">Developer Link--> <a href="https://github.com/surajbhatt-09/loveGym" id="name"> surajbhatt-09.github.io</a></div>
+       <div className="col l6 s4" id="freakname">Train For Life &copy;2019 </div>
+       <div className="col l6 s4" id="developer">Developer Link--> <a href="https://github.com/surajbhatt-09/loveGym" id="name"> surajbhatt-09.github.io</a></div>
+   
       </div>
       </div>
-
+      <div className="hide-on-med-and-up">
+      <div className="copyright-footer grey darken-4 center " id="mobifreak">
+      <div className="row">
+       <div className="col l6 s6" id="mobicopy">Train For Life &copy;2019 </div>
+       <div className="col l6 s6" id="mobideveloper">Developer Link--> <a href="https://github.com/surajbhatt-09/loveGym" id="name">@suraj.github</a></div>
+   
+      </div>
+      </div>
+   </div>
       </div>
        
     )

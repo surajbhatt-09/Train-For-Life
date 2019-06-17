@@ -2,11 +2,12 @@
   margin:0;
   padding:0;
   background: #dedede;
+  
 }
 
 .ul {
   position:absolute;
-  
+  left:-5%;
   transform: translate(65%, 65%);
   margin:0;
   padding:0;
