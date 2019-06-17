@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/loveGym/precache-manifest.be00850d2f0387f37fc7a5a236496ca5.js"
+  "/loveGym/precache-manifest.d2867eb6ed430572b8a164079104f14a.js"
 );
 
 self.addEventListener('message', (event) => {

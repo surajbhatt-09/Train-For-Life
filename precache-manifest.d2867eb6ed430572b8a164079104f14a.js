@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3de187cae754113e76ffddb2b1744e02",
+    "revision": "b2b6520c07fc69429bf11d7c69d7b185",
     "url": "/loveGym/index.html"
   },
   {
-    "revision": "cfba19653e6d3008fd50",
-    "url": "/loveGym/static/css/main.f2339bfa.chunk.css"
+    "revision": "3f0d545f5890dd02562f",
+    "url": "/loveGym/static/css/main.953a7a50.chunk.css"
   },
   {
     "revision": "f7249718d24e1db6473a",
     "url": "/loveGym/static/js/2.686babe9.chunk.js"
   },
   {
-    "revision": "cfba19653e6d3008fd50",
+    "revision": "3f0d545f5890dd02562f",
     "url": "/loveGym/static/js/main.f6accb59.chunk.js"
   },
   {
