@@ -11,6 +11,7 @@
     display: block;
     background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200px 100px" enable-background="new 0 0 200px 100px" xml:space="preserve"><polyline fill="none" stroke-width="3px" stroke="white" points="2.4,58.7 70.8,58.7 76.1,46.2 81.1,58.7 89.9,58.7 93.8,66.5 102.8,22.7 110.6,78.7 115.3,58.7 126.4,58.7 134.4,54.7 142.4,58.7 197.8,58.7 "/></svg>') 0 0 no-repeat;
     width: 100%;
+    
     height: 90%;
     position: absolute;
     -webkit-animation: 2s pulse linear infinite;
@@ -96,3 +97,64 @@
    }
     
   }
+  
+.form{
+  position: relative;
+  top: -17px;
+  left: -250px;
+  transform: translate(50%,50%);
+  transition: all 1s;
+  width: 50px;
+  height: 50px;
+  background: white;
+  box-sizing: border-box;
+  border-radius: 10px;
+  border: 4px solid white;
+  padding: 5px;
+}
+
+.input{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;;
+  height: 42.5px;
+  line-height: 30px;
+  outline: 0;
+  border: 0;
+ display:none;
+  font-size: 1em;
+  border-radius: 20px;
+  padding: 0 20px;
+}
+
+.ifa{
+  box-sizing: border-box;
+  padding: 10px;
+  width: 42.5px;
+  height: 42.5px;
+  position: absolute;
+  top: 0;
+left:-50px;
+  border-radius: 50%;
+  color: #07051a;
+  text-align: center;
+  font-size: 1.2em;
+  transition: all 1s;
+}
+
+.form:hover{
+ 
+  width: 210px;
+  cursor: pointer;
+}
+.form:hover input{
+ 
+ display:block;
+ 
+}
+
+.form:hover .fa{
+  background: #07051a;
+  color: white;
+}

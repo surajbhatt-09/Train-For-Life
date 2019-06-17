@@ -56,7 +56,7 @@ h1 {
     margin: 0 2%;
     box-shadow: 0 20px 30px rgba(0,0,0,.1);
     line-height: 0;
-    background-image: linear-gradient(to top, #c4c5c7 0%, #dcdddf 52%, #ebebeb 100%);
+    background-image: linear-gradient(to top, #c4c7c4 0%, #dcdddf 52%, #ebebeb 100%);
   }
   
   .box > img {
@@ -86,89 +86,7 @@ h1 {
   .box:hover{
     background-image: linear-gradient(to right, #c1c161 0%, #c1c161 0%, #d4d4b1 100%);
   }
-   
-  .threeD {
-    
-    color:grey(169, 169, 169);
-    white-space: nowrap;
-   
-    top: 5%;
-    right: 50%;
-    transform: translate(-50%, -50%);
-    font-size: 3em;
-    font-family: sans-serif;
-    letter-spacing: 0.1em;
-    transition: 0.3s;
-    color:lavenderblush;
-  }
-  
-  .threeD:hover {
-    color:khaki;
-    transition: 0.3s;
-    transform: scale(1.1)translate(-50%, -50%);
-   
-    
-   
-    text-shadow: 1px -1px 0 grey, 1px -2px 0 grey, 1px -3px 0 grey,
-      1px -4px 0 grey, 1px -5px 0 grey 0 grey(6, 110, 23) 0 grey,
-      1px -8px 0 grey, 5px -13px 15px grey, 5px -13px 25px grey;
-  }
-  .spinner {
-    position: relative;
-    margin: auto;
-    box-sizing: border-box;
-    background-clip: padding-box;
-    width: 200px;
-    height: 200px;
-    border-radius: 100px;
-    border: 4px solid rgba(255, 255, 255, 0.1);
-    -webkit-mask: linear-gradient(rgba(0, 0, 0, 0.1), #000000 90%);
-    transform-origin: 50% 60%;
-    transform: perspective(200px) rotateX(66deg);
-    animation: spinner-wiggle 1.2s infinite;
-  }
-  .spinner:before,
-  .spinner:after {
-    content: "";
-    position: absolute;
-    margin: -4px;
-    box-sizing: inherit;
-    width: inherit;
-    height: inherit;
-    border-radius: inherit;
-    opacity: 1;
-    border: inherit;
-    border-color: transparent;
-    animation: spinner-spin 1.2s cubic-bezier(0.6, 0.2, 0, 0.8) infinite, spinner-fade 1.2s linear infinite;
-  }
-  
-  .spinner:before {
-    border-top-color: #c2220d;
-  }
-  
-  .spinner:after {
-    border-top-color: #30067e;
-    animation-delay: 0.3s;
-  }
-  
-  @keyframes spinner-spin {
-    100% {
-      transform: rotate(360deg);
-    }
-  }
-  @keyframes spinner-fade {
-    50% {
-      opacity: 3;
-    }
-    70% {
-      opacity: 3;
-    }
-    90% {
-      opacity: 7;
-    }
-  }
-  
-
+ 
   .loader {
     width: 20em;
     height: 20em;
@@ -191,7 +109,7 @@ h1 {
 .loader .face:nth-child(1) {
     width: 100%;
     height: 100%;
-    color: rgb(238, 87, 162);
+    color:hotpink;
     border-color: currentColor transparent transparent currentColor;
     border-width: 0.2em 0.2em 0em 0em;
     --deg: -45deg;
@@ -240,4 +158,7 @@ h1 {
     to {
         transform: rotate(1turn);
     }
+}
+.loader .face:nth-child(1):hover{
+  color:rgb(121, 218, 112);
 }
