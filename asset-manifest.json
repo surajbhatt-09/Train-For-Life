@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/loveGym/static/css/main.e38dd7fb.chunk.css",
+    "main.css": "/loveGym/static/css/main.f2339bfa.chunk.css",
     "main.js": "/loveGym/static/js/main.f6accb59.chunk.js",
     "main.js.map": "/loveGym/static/js/main.f6accb59.chunk.js.map",
     "runtime~main.js": "/loveGym/static/js/runtime~main.e72ffed9.js",
@@ -8,9 +8,9 @@
     "static/js/2.686babe9.chunk.js": "/loveGym/static/js/2.686babe9.chunk.js",
     "static/js/2.686babe9.chunk.js.map": "/loveGym/static/js/2.686babe9.chunk.js.map",
     "index.html": "/loveGym/index.html",
-    "precache-manifest.e25e1f0b4a00f6d9d31422df2c79b663.js": "/loveGym/precache-manifest.e25e1f0b4a00f6d9d31422df2c79b663.js",
+    "precache-manifest.be00850d2f0387f37fc7a5a236496ca5.js": "/loveGym/precache-manifest.be00850d2f0387f37fc7a5a236496ca5.js",
     "service-worker.js": "/loveGym/service-worker.js",
-    "static/css/main.e38dd7fb.chunk.css.map": "/loveGym/static/css/main.e38dd7fb.chunk.css.map",
+    "static/css/main.f2339bfa.chunk.css.map": "/loveGym/static/css/main.f2339bfa.chunk.css.map",
     "static/media/diet.jpg": "/loveGym/static/media/diet.a28adc91.jpg",
     "static/media/life.jpg": "/loveGym/static/media/life.7b842732.jpg",
     "static/media/medi.jpg": "/loveGym/static/media/medi.6c813eee.jpg",
