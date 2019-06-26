@@ -8,7 +8,10 @@ import Life from './InternalComp/Life'
 import Work from './InternalComp/Work'
 import Medi from './InternalComp/meditation'
 
+
  class App extends Component {
+   
+
   render(){
   return (
     <HashRouter>
@@ -20,6 +23,8 @@ import Medi from './InternalComp/meditation'
     <Route path='/diet' component={Diet}/>
     <Route path='/work' component={Work}/>
     <Route path='/medi' component={Medi}/>
+  
+
     </div>
     </HashRouter>
   )};

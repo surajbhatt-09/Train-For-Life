@@ -15,7 +15,7 @@ const Mobi= ()=> {
       LifeStyle
     </p>
 
-    <h1 className="ff-serif font-weight-normal text-black card-heading mt-0 mb-1">
+    <h1 className="ff-serif font-weight-normal text-black card-heading mhh1">
     How important is LifeStyle..
     </h1>
 
@@ -52,7 +52,7 @@ const Mobi= ()=> {
       Diet Routine
     </p>
 
-    <h1 className="ff-serif font-weight-normal text-black card-heading mt-0 mb-1">
+    <h1 className="ff-serif font-weight-normal text-black card-heading mhh1">
     Role of diet in a hectic Lifestyle.
     </h1>
 
@@ -92,7 +92,7 @@ There's no perfect meal plan; the best diet is the one which works for your life
     Workout
     </p>
 
-    <h1 className="ff-serif font-weight-normal text-black card-heading mt-0 mb-1">
+    <h1 className="ff-serif font-weight-normal text-black card-heading mhh1">
     Necessity of Workout
     </h1>
 
@@ -130,7 +130,7 @@ There's no perfect meal plan; the best diet is the one which works for your life
       Meditation
     </p>
 
-    <h1 className="ff-serif font-weight-normal text-black card-heading mt-0 mb-1">
+    <h1 className="ff-serif font-weight-normal text-black card-heading mhh1">
   How to Meditate Effectively
     </h1>
 

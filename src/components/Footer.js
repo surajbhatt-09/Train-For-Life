@@ -1,8 +1,37 @@
-import React from 'react'
+import React,{Component} from 'react'
 import '../CssFiles/Footer.css'
 import '../CssFiles/social.css'
 
-const Footer= ()=> {
+
+class Footer extends Component {
+  constructor(props){
+super(props);
+this.state={
+  userName:'',
+ message:'',
+  email:''
+}
+
+this.handleSubmit=this.handleSubmit.bind(this);
+this.handleChange=this.handleChange.bind(this);
+
+  }
+handleChange(event){
+this.setState({
+[event.target.name]:event.target.value
+})
+}
+  handleSubmit(e){
+    e.preventDefault();
+   const userName=this.state.userName;
+   const email=this.state.email;
+   const message=this.state.message
+if(userName=="" || email=="" || message=="")
+alert("fields cannot be empty")
+else
+alert("thanks for your reply, we will send you an email soon")  
+}
+    render(){
     return (
         <div>
         <div>
@@ -30,27 +59,23 @@ const Footer= ()=> {
       
       <div className="col l6 s6 ">
           <h5>Keep In Touch</h5>
-      <form className="pure-form pure-form-aligned">
+      <form onSubmit={this.handleSubmit} className="pure-form pure-form-aligned">
     <fieldset>
         <div className="pure-control-group">
         <i className="material-icons prefix">person</i>
-            <input id="name" type="text" placeholder="Username"/>
+            <input id="name" name="userName" type="text" placeholder="Username" onChange={e=>{this.handleChange(e)}}  />
            
         </div>
 
-        <div className="pure-control-group">
-        <i className="material-icons prefix">lock</i>
-            <input id="password" type="password" placeholder="Password"/>
-        </div>
 
         <div className="pure-control-group">
         <i className="material-icons prefix">email</i>
-            <input id="email" type="email" placeholder="Email Address"/>
+            <input id="email" type="email" name="email" onChange={e=>{this.handleChange(e)}}   placeholder="Email Address"/>
         </div>
 
         <div className="pure-control-group">
         <i className="material-icons prefix">message</i>
-            <input id="foo" type="text" placeholder="Send Us Your Query..."/>
+            <textarea id="foo" onChange={e=>{this.handleChange(e)}} name="message"  rows="40" cols='10' type="text" placeholder="Send Us Your Query..."></textarea>
         </div>
 
         <div className="pure-controls">
@@ -86,6 +111,7 @@ const Footer= ()=> {
       </div>
        
     )
+    }
 }
 
 export default Footer

@@ -11,7 +11,7 @@ const NavBar= ()=> {
      <div class="heartrate"></div>
 <ul className="right hide-on-med-and-down">
 <li>
-<form action='' className="form">
+<form method='POST' className="form">
   <input type="search" className="input"/>
   <i class="search ifa fa fa-search"></i>
 </form>

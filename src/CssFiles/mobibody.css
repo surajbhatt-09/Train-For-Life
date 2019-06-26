@@ -196,16 +196,16 @@
 }
 
 .mt-0 {
-  margin-top: 0;
-}
-.mt-1 {
   margin-top: 1rem;
 }
-.mt-2 {
+.mt-1 {
   margin-top: 2rem;
 }
-.mt-3 {
+.mt-2 {
   margin-top: 3rem;
+}
+.mt-3 {
+  margin-top: 4rem;
 }
 
 .mb-0 {
@@ -233,7 +233,10 @@
 .ml-3 {
   margin-left: 3rem;
 }
-
+.mhh1{
+    top:35%;
+    font-size: 25px;
+}
 
 
 
@@ -305,7 +308,7 @@
   
   .mobisocial {
     position:absolute;
-    top:460%;
+    top:400%;
     right:70%;;
     transform: translate(65%, 65%);
     margin:0;
