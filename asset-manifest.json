@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/loveGym/static/css/main.72c7de5a.chunk.css",
-    "main.js": "/loveGym/static/js/main.8cfc1661.chunk.js",
-    "main.js.map": "/loveGym/static/js/main.8cfc1661.chunk.js.map",
-    "runtime~main.js": "/loveGym/static/js/runtime~main.e72ffed9.js",
-    "runtime~main.js.map": "/loveGym/static/js/runtime~main.e72ffed9.js.map",
-    "static/js/2.ab32b57f.chunk.js": "/loveGym/static/js/2.ab32b57f.chunk.js",
-    "static/js/2.ab32b57f.chunk.js.map": "/loveGym/static/js/2.ab32b57f.chunk.js.map",
-    "index.html": "/loveGym/index.html",
-    "precache-manifest.9a3a9d7f81ef9f13081036a84f46b7e1.js": "/loveGym/precache-manifest.9a3a9d7f81ef9f13081036a84f46b7e1.js",
-    "service-worker.js": "/loveGym/service-worker.js",
-    "static/css/main.72c7de5a.chunk.css.map": "/loveGym/static/css/main.72c7de5a.chunk.css.map",
-    "static/media/diet.jpg": "/loveGym/static/media/diet.a28adc91.jpg",
-    "static/media/life.jpg": "/loveGym/static/media/life.7b842732.jpg",
-    "static/media/medi.jpg": "/loveGym/static/media/medi.6c813eee.jpg",
-    "static/media/work.jpg": "/loveGym/static/media/work.345f0bb7.jpg"
+    "main.css": "/Train-For-Life/static/css/main.72c7de5a.chunk.css",
+    "main.js": "/Train-For-Life/static/js/main.e6cc2bf8.chunk.js",
+    "main.js.map": "/Train-For-Life/static/js/main.e6cc2bf8.chunk.js.map",
+    "runtime~main.js": "/Train-For-Life/static/js/runtime~main.7b9022d9.js",
+    "runtime~main.js.map": "/Train-For-Life/static/js/runtime~main.7b9022d9.js.map",
+    "static/js/2.ab32b57f.chunk.js": "/Train-For-Life/static/js/2.ab32b57f.chunk.js",
+    "static/js/2.ab32b57f.chunk.js.map": "/Train-For-Life/static/js/2.ab32b57f.chunk.js.map",
+    "index.html": "/Train-For-Life/index.html",
+    "precache-manifest.ddfa0091e130daa878016b7d21a12730.js": "/Train-For-Life/precache-manifest.ddfa0091e130daa878016b7d21a12730.js",
+    "service-worker.js": "/Train-For-Life/service-worker.js",
+    "static/css/main.72c7de5a.chunk.css.map": "/Train-For-Life/static/css/main.72c7de5a.chunk.css.map",
+    "static/media/diet.jpg": "/Train-For-Life/static/media/diet.a28adc91.jpg",
+    "static/media/life.jpg": "/Train-For-Life/static/media/life.7b842732.jpg",
+    "static/media/medi.jpg": "/Train-For-Life/static/media/medi.6c813eee.jpg",
+    "static/media/work.jpg": "/Train-For-Life/static/media/work.345f0bb7.jpg"
   }
 }
