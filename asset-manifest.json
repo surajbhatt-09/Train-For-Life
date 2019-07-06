@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.css": "/Train-For-Life/static/css/main.0a4570f1.chunk.css",
-    "main.js": "/Train-For-Life/static/js/main.adcf1e57.chunk.js",
-    "main.js.map": "/Train-For-Life/static/js/main.adcf1e57.chunk.js.map",
+    "main.css": "/Train-For-Life/static/css/main.b381d26e.chunk.css",
+    "main.js": "/Train-For-Life/static/js/main.4ad53e17.chunk.js",
+    "main.js.map": "/Train-For-Life/static/js/main.4ad53e17.chunk.js.map",
     "runtime~main.js": "/Train-For-Life/static/js/runtime~main.7b9022d9.js",
     "runtime~main.js.map": "/Train-For-Life/static/js/runtime~main.7b9022d9.js.map",
-    "static/js/2.7a91ec82.chunk.js": "/Train-For-Life/static/js/2.7a91ec82.chunk.js",
-    "static/js/2.7a91ec82.chunk.js.map": "/Train-For-Life/static/js/2.7a91ec82.chunk.js.map",
+    "static/js/2.b499e610.chunk.js": "/Train-For-Life/static/js/2.b499e610.chunk.js",
+    "static/js/2.b499e610.chunk.js.map": "/Train-For-Life/static/js/2.b499e610.chunk.js.map",
     "index.html": "/Train-For-Life/index.html",
-    "precache-manifest.f95fb18e998cf62196adc8042b72f023.js": "/Train-For-Life/precache-manifest.f95fb18e998cf62196adc8042b72f023.js",
+    "precache-manifest.bdea9c0e2e29272bcc9631799d0fb7f5.js": "/Train-For-Life/precache-manifest.bdea9c0e2e29272bcc9631799d0fb7f5.js",
     "service-worker.js": "/Train-For-Life/service-worker.js",
-    "static/css/main.0a4570f1.chunk.css.map": "/Train-For-Life/static/css/main.0a4570f1.chunk.css.map",
-    "static/media/demo.css": "/Train-For-Life/static/media/life.7b842732.jpg",
+    "static/css/main.b381d26e.chunk.css.map": "/Train-For-Life/static/css/main.b381d26e.chunk.css.map",
+    "static/media/bmi.jpg": "/Train-For-Life/static/media/bmi.5b75bbd8.jpg",
+    "static/media/clue.jpg": "/Train-For-Life/static/media/clue.6a76008a.jpg",
+    "static/media/diet.jpg": "/Train-For-Life/static/media/diet.a28adc91.jpg",
+    "static/media/life.jpg": "/Train-For-Life/static/media/life.7b842732.jpg",
     "static/media/medi.jpg": "/Train-For-Life/static/media/medi.6c813eee.jpg",
     "static/media/work.jpg": "/Train-For-Life/static/media/work.345f0bb7.jpg"
   }

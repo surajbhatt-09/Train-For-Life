@@ -1,23 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b0dfbac1459ea457a14576ea12165e03",
+    "revision": "2c121112014ba830b175a919ccefa4d1",
     "url": "/Train-For-Life/index.html"
   },
   {
-    "revision": "a417b481656480089244",
-    "url": "/Train-For-Life/static/css/main.0a4570f1.chunk.css"
+    "revision": "06958c3d8772be8a52fd",
+    "url": "/Train-For-Life/static/css/main.b381d26e.chunk.css"
   },
   {
-    "revision": "10ab63c1ade088493f56",
-    "url": "/Train-For-Life/static/js/2.7a91ec82.chunk.js"
+    "revision": "aa27238aa3551c58a543",
+    "url": "/Train-For-Life/static/js/2.b499e610.chunk.js"
   },
   {
-    "revision": "a417b481656480089244",
-    "url": "/Train-For-Life/static/js/main.adcf1e57.chunk.js"
+    "revision": "06958c3d8772be8a52fd",
+    "url": "/Train-For-Life/static/js/main.4ad53e17.chunk.js"
   },
   {
     "revision": "574a64ebac15caf7ea18",
     "url": "/Train-For-Life/static/js/runtime~main.7b9022d9.js"
+  },
+  {
+    "revision": "5b75bbd87bc433eb1f47f562a8bf0e30",
+    "url": "/Train-For-Life/static/media/bmi.5b75bbd8.jpg"
+  },
+  {
+    "revision": "6a76008a49f9d6067305e35ea19ccf12",
+    "url": "/Train-For-Life/static/media/clue.6a76008a.jpg"
   },
   {
     "revision": "a28adc918f0877afbd45c1ae2c8dd7e0",
