@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Train-For-Life/precache-manifest.4741007d2538215cb89d6b3b2b025575.js"
+  "/Train-For-Life/precache-manifest.cf83ec024b46b31713ead827f3f230b6.js"
 );
 
 self.addEventListener('message', (event) => {
