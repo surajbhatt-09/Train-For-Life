@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "60277ea8bb1a34930982a6582fc52f4d",
+    "revision": "5c397efbaef279baa57d718002b8878f",
     "url": "/Train-For-Life/index.html"
   },
   {
-    "revision": "177ad3c0aaf41207c6c1",
-    "url": "/Train-For-Life/static/css/main.c9dec29d.chunk.css"
+    "revision": "dfd1db4bedfc32beb836",
+    "url": "/Train-For-Life/static/css/main.6794a47b.chunk.css"
   },
   {
-    "revision": "ab68b6f46c7ce00d9630",
-    "url": "/Train-For-Life/static/js/2.f61553e4.chunk.js"
+    "revision": "818bcce8c41a52f8d72e",
+    "url": "/Train-For-Life/static/js/2.e3da57a9.chunk.js"
   },
   {
-    "revision": "177ad3c0aaf41207c6c1",
-    "url": "/Train-For-Life/static/js/main.95933c90.chunk.js"
+    "revision": "dfd1db4bedfc32beb836",
+    "url": "/Train-For-Life/static/js/main.d99ebb8d.chunk.js"
   },
   {
     "revision": "574a64ebac15caf7ea18",
@@ -138,6 +138,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e523fa5cbeac879580289509f9c5893f",
     "url": "/Train-For-Life/static/media/third.e523fa5c.JPG"
+  },
+  {
+    "revision": "97f992ff98827a41414affe9343f8c03",
+    "url": "/Train-For-Life/static/media/trl.97f992ff.jpg"
   },
   {
     "revision": "345f0bb7ffab8cc377e7af91345de6c7",
